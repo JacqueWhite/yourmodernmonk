@@ -1,0 +1,25 @@
+.idea/
+/node_modules
+/build
+/dist
+/coverage
+npm-debug.log*
+.DS_Store
+test-results.xml
+.cache
+.terraform
+*.tfstate
+.env
+.env.local
+.npmrc
+*.iml
+/.vscode
+/test_reports
+# local config file which might have secrets
+**/config/local.yaml
+**/config/local*
+**/node_modules
+.caddy
+schema.graphql
+.graphqlconfig
+/storybook-static
