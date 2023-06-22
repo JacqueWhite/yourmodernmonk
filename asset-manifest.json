@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.2773d5e8.js",
+    "main.js": "/static/js/main.1edb4dd2.js",
     "static/js/787.4fbc8e8c.chunk.js": "/static/js/787.4fbc8e8c.chunk.js",
+    "static/media/your_modern_monk_cover.png": "/static/media/your_modern_monk_cover.ccb05ee58b665c4e1a25.png",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.2773d5e8.js.map": "/static/js/main.2773d5e8.js.map",
+    "main.1edb4dd2.js.map": "/static/js/main.1edb4dd2.js.map",
     "787.4fbc8e8c.chunk.js.map": "/static/js/787.4fbc8e8c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2773d5e8.js"
+    "static/js/main.1edb4dd2.js"
   ]
 }
